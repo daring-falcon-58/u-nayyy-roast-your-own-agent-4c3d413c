@@ -1,0 +1,11 @@
+kit-dir/
+kit/
+kit-download.tar.gz
+kit.json.download
+SUBMIT-READY.md
+transcripts.tar.gz
+bundle.log
+check.log
+heartbeat.log
+muse-usage*.jsonl
+__pycache__/
